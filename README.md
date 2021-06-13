@@ -3,7 +3,7 @@
 ```blocks
 basic.showNumber(1254)
 ```
-
+![Eine gerenderte Ansicht der Blöcke](https://github.com/baa-mb/tutor-test/raw/master/.github/makecode/blocks.png)
 
 > Diese Seite bei [https://baa-mb.github.io/tutor-test/](https://baa-mb.github.io/tutor-test/) öffnen
 
@@ -26,5 +26,6 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk1MDE4ODAsOTA3OTA2MTU0XX0=
+eyJoaXN0b3J5IjpbMTU4NDY3MjQ5NCwtMTc5OTUwMTg4MCw5MD
+c5MDYxNTRdfQ==
 -->
