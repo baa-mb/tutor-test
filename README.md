@@ -1,13 +1,13 @@
 # Auf Github
 
 ```blocks
-showNumber(54)
+showNumber(254)
 ```
 
 
 > Diese Seite bei [https://baa-mb.github.io/tutor-test/](https://baa-mb.github.io/tutor-test/) öffnen
 
-## Als Erweiterung verwenden
+## Als Erweiterung verwenden -baa
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
@@ -35,3 +35,6 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTA3OTA2MTU0XX0=
+-->
