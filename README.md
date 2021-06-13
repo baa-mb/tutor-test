@@ -1,7 +1,7 @@
 # Auf Github
 
 ```blocks
-showNumber(1254)
+basic.showNumber(1254)
 ```
 
 
@@ -26,5 +26,5 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzY2OTY0MCw5MDc5MDYxNTRdfQ==
+eyJoaXN0b3J5IjpbLTE3OTk1MDE4ODAsOTA3OTA2MTU0XX0=
 -->
