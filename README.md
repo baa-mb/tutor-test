@@ -1,9 +1,9 @@
-# Auf Github
+## Auf Github 1
 
 ```blocks
 basic.showNumber(1254)
 ```
-
+## Auf Github 2
 ```blocks
 basic.showString("ja es funktioniert")
 ```
@@ -33,6 +33,6 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 makeCodeRender(“{{ site.makecode.home_url }}”, “{{ site.github.owner_name }}/{{ site.github.repository_name }}”);
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYyNzQxOTAsMTU4NDY3MjQ5NCwtMT
-c5OTUwMTg4MCw5MDc5MDYxNTRdfQ==
+eyJoaXN0b3J5IjpbMTI3OTU0Nzk4OCwtMjA4NjI3NDE5MCwxNT
+g0NjcyNDk0LC0xNzk5NTAxODgwLDkwNzkwNjE1NF19
 -->
