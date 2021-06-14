@@ -142,6 +142,8 @@ B --> D{Rhombus}
 C --> D
 ```
 
+
+
 ```mermaid
 graph TB
          A[13,032] --> |Accept John's Offer| B[12,000]
@@ -162,5 +164,5 @@ graph TB
          F --> |Salary 5 0.05| Q[$0]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTQxOTM0MV19
+eyJoaXN0b3J5IjpbMzkxNDY2MDksMTY0OTQxOTM0MV19
 -->
