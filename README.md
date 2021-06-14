@@ -1,5 +1,6 @@
-## Auf Github 1
-
+# Dem Zufall auf der Spur
+## Behauptung
+Wirft man eine Münze 
 ```blocks
 basic.showNumber(1254)
 ```
@@ -33,6 +34,7 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 makeCodeRender(“{{ site.makecode.home_url }}”, “{{ site.github.owner_name }}/{{ site.github.repository_name }}”);
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTU0Nzk4OCwtMjA4NjI3NDE5MCwxNT
-g0NjcyNDk0LC0xNzk5NTAxODgwLDkwNzkwNjE1NF19
+eyJoaXN0b3J5IjpbLTg0OTM1MjM3OCwxMjc5NTQ3OTg4LC0yMD
+g2Mjc0MTkwLDE1ODQ2NzI0OTQsLTE3OTk1MDE4ODAsOTA3OTA2
+MTU0XX0=
 -->
