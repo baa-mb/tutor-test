@@ -3,6 +3,12 @@
 ```blocks
 basic.showNumber(1254)
 ```
+
+```blocks
+basic.showString("ja es funktioniert")
+```
+
+
 ![Eine gerenderte Ansicht der Blöcke](https://github.com/baa-mb/tutor-test/raw/master/.github/makecode/blocks.png)
 
 > Diese Seite bei [https://baa-mb.github.io/tutor-test/](https://baa-mb.github.io/tutor-test/) öffnen
