@@ -29,9 +29,9 @@ Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
 Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 ![Eine gerenderte Ansicht der Blöcke](https://github.com/baa-mb/tutor-test/raw/master/.github/makecode/blocks.png)
-
+<script>
 makeCodeRender(“{{ site.makecode.home_url }}”, “{{ site.github.owner_name }}/{{ site.github.repository_name }}”);
-
+</script>
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwODYyNzQxOTAsMTU4NDY3MjQ5NCwtMT
 c5OTUwMTg4MCw5MDc5MDYxNTRdfQ==
