@@ -30,8 +30,9 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 ![Eine gerenderte Ansicht der Blöcke](https://github.com/baa-mb/tutor-test/raw/master/.github/makecode/blocks.png)
 
+makeCodeRender(“{{ site.makecode.home_url }}”, “{{ site.github.owner_name }}/{{ site.github.repository_name }}”);
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDY3MjQ5NCwtMTc5OTUwMTg4MCw5MD
-c5MDYxNTRdfQ==
+eyJoaXN0b3J5IjpbLTIwODYyNzQxOTAsMTU4NDY3MjQ5NCwtMT
+c5OTUwMTg4MCw5MDc5MDYxNTRdfQ==
 -->
