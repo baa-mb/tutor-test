@@ -1,7 +1,7 @@
-# Tutorial ist heir auch mö
+# Tutorial ist hier auch möglich
 ```blocks
 basic.showString("Hello!")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg5Mjg5NTddfQ==
+eyJoaXN0b3J5IjpbMzgzMjEyOTY4XX0=
 -->
