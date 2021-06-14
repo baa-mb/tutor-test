@@ -1,6 +1,6 @@
 # Dem Zufall auf der Spur
 ## Behauptung
-Wirft man eine Münze 
+Wirft man eine Münze oft genug, so kommen Kopf und Zahl etwa gleich oft.  
 ```blocks
 basic.showNumber(1254)
 ```
@@ -34,7 +34,7 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 makeCodeRender(“{{ site.makecode.home_url }}”, “{{ site.github.owner_name }}/{{ site.github.repository_name }}”);
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTM1MjM3OCwxMjc5NTQ3OTg4LC0yMD
-g2Mjc0MTkwLDE1ODQ2NzI0OTQsLTE3OTk1MDE4ODAsOTA3OTA2
-MTU0XX0=
+eyJoaXN0b3J5IjpbNTM2OTY2NDg2LDEyNzk1NDc5ODgsLTIwOD
+YyNzQxOTAsMTU4NDY3MjQ5NCwtMTc5OTUwMTg4MCw5MDc5MDYx
+NTRdfQ==
 -->
