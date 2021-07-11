@@ -1,4 +1,4 @@
-# Dem Zufall auf der Spur
+# Dem Zufall auf der Spurx
 ## Behauptung
 Wirft man eine Münze oft genug, so kommen Kopf und Zahl etwa gleich oft.  
 ```blocks
